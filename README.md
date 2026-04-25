@@ -1,5 +1,5 @@
 # 🔊 ESP32 Bluetooth A2DP Speaker
-> A high-performance Bluetooth audio sink implementation for the ESP32 using the ESP-IDF framework.
+> A simple Bluetooth audio sink implementation for the ESP32 using the ESP-IDF framework.
 
 [![Platform](https://img.shields.io/badge/Platform-ESP--IDF-blue.svg)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 [![Protocol](https://img.shields.io/badge/Protocol-A2DP%20Sink-orange.svg)](#)
